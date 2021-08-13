@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Home.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/ExpoUM.unity
+    guid: 8405d66b5fff5b64a96850aebeb44bac
   m_configObjects: {}
